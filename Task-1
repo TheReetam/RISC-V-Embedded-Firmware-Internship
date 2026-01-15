@@ -1,2 +1,0 @@
-What is a firmware library?
-Firmware is a specific type of software that sit into a hardware device's non-volatile memory (like Flash or ROM). Its primary purpose is to provide low-level control for that specific piece of hardware. When the device is turned on, the firmware is the first code to run. It "wakes up" the hardware components like clocks, memory, and pins. It is Hardware specific It is Hardware specific, if the hardware is changed , the firmware must be rewritten.
