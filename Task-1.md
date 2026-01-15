@@ -9,3 +9,5 @@
 - **.h Files** - A header file tells the rest of the program what functions and constants exist, without showing how they work. It’s like a menu at a restaurant: you see what you can order, but you don't see the recipe or the kitchen logic.
 - **.c Files** - A Source file is where the actual work happens. In gpio.c, it is defining the logic for the functions that is promised in the header.
 - **main.c** - This is the entry point of your program. The computer always looks for the int main() function to start execution.
+# Output
+![Output](Task1_output.png)
